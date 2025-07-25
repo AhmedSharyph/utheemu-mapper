@@ -1,13 +1,13 @@
 {
-  "name": "Funadhoo Mapper",
-  "short_name": "Funadhoo Mapper",
-  "start_url": "/funadhoomapper/",
+  "name": "Utheemu Mapper",
+  "short_name": "Utheemu Mapper",
+  "start_url": "/Utheemumapper/",
   "display": "standalone",
   "background_color": "#00bcd4",
   "theme_color": "#00bcd4",
   "icons": [
     {
-      "src": "https://ahmedsharyph.github.io/funadhoomapper/fm_logo.png",
+      "src": "https://ahmedsharyph.github.io/utheemu-mapper/fm_logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
