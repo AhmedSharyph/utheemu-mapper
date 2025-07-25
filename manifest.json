@@ -1,0 +1,15 @@
+{
+  "name": "Funadhoo Mapper",
+  "short_name": "Funadhoo Mapper",
+  "start_url": "/funadhoomapper/",
+  "display": "standalone",
+  "background_color": "#00bcd4",
+  "theme_color": "#00bcd4",
+  "icons": [
+    {
+      "src": "https://ahmedsharyph.github.io/funadhoomapper/fm_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
