@@ -24,5 +24,5 @@ window.addEventListener('beforeinstallprompt', (e) => {
 });
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('https://ahmedsharyph.github.io/funadhoomapper/service-worker.js');
+  navigator.serviceWorker.register('https://ahmedsharyph.github.io/utheemu-mapper/service-worker.js');
 }
