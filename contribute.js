@@ -6,7 +6,7 @@ const form = document.getElementById('addressForm');
     // Load addresses from Google Sheet
     async function loadAddressOptions() {
       try {
-        const res = await fetch("https://script.google.com/macros/s/AKfycbz8_X-uaxok6xQK0mog2hIvYVN_D3ydOPGOHdXC8SZ8tHulyVo2xm76NSTHCWaQ_8KzIg/exec?type=list");
+        const res = await fetch("https://script.google.com/macros/s/AKfycbwZtP6vC5XNATi1cQ6OrfAbsR4aswig_Z34IrxV7VU5fZCe714VhyG51rTHQSoAG7D_Mw/exec?type=list");
         const addresses = await res.json();
 
         datalist.innerHTML = "";
